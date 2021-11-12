@@ -22,3 +22,4 @@ file1_status=`file_check $file1`
 file2_status=`file_check $file2`
 
 echo "Message - $file1_status - $file2_status"
+echo "done"
